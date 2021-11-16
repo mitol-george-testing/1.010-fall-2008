@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "72341676-02b1-c1a3-c022-b1b09945ce15"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Uncertainty in Engineering",
+  "course_description": "This course gives an introduction to probability and statistics, with emphasis on engineering applications. Course topics include events and their probability, the total probability and Bayes' theorems, discrete and continuous random variables and vectors, uncertainty propagation and conditional analysis. Second-moment representation of uncertainty, random sampling, estimation of distribution parameters (method of moments, maximum likelihood, Bayesian estimation), and simple and multiple linear regression. Concepts illustrated with examples from various areas of engineering and everyday life.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.010",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
